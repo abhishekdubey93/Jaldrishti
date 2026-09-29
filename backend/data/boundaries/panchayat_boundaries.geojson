@@ -1,0 +1,305 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "id": "PNC_DHR_01",
+      "properties": {
+        "panchayat_id": "PNC_DHR_01",
+        "panchayat_name": "Khedpur",
+        "block_name": "Dharampur",
+        "district_name": "Solan",
+        "state_name": "Himachal Pradesh",
+        "elevation_m": 1420.0,
+        "rainfall_mm": 21.8,
+        "temp_max": 25.1,
+        "temp_min": 13.5,
+        "humidity_pct": 80,
+        "wind_speed_kmh": 13.2,
+        "alert_level": "MODERATE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.015, 30.875],
+            [77.035, 30.875],
+            [77.035, 30.895],
+            [77.015, 30.895],
+            [77.015, 30.875]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_DHR_02",
+      "properties": {
+        "panchayat_id": "PNC_DHR_02",
+        "panchayat_name": "Subathu Valley",
+        "block_name": "Dharampur",
+        "district_name": "Solan",
+        "state_name": "Himachal Pradesh",
+        "elevation_m": 1180.0,
+        "rainfall_mm": 15.2,
+        "temp_max": 27.5,
+        "temp_min": 15.1,
+        "humidity_pct": 74,
+        "wind_speed_kmh": 15.5,
+        "alert_level": "NORMAL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [76.980, 30.900],
+            [77.005, 30.900],
+            [77.005, 30.925],
+            [76.980, 30.925],
+            [76.980, 30.900]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_SHM_01",
+      "properties": {
+        "panchayat_id": "PNC_SHM_01",
+        "panchayat_name": "Fagu",
+        "block_name": "Theog",
+        "district_name": "Shimla",
+        "state_name": "Himachal Pradesh",
+        "elevation_m": 2450.0,
+        "rainfall_mm": 34.0,
+        "temp_max": 18.5,
+        "temp_min": 8.8,
+        "humidity_pct": 88,
+        "wind_speed_kmh": 14.0,
+        "alert_level": "HEAVY_RAIN"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [77.285, 31.075],
+            [77.315, 31.075],
+            [77.315, 31.105],
+            [77.285, 31.105],
+            [77.285, 31.075]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_RPR_01",
+      "properties": {
+        "panchayat_id": "PNC_RPR_01",
+        "panchayat_name": "Sankra",
+        "block_name": "Dharsiwa",
+        "district_name": "Raipur",
+        "state_name": "Chhattisgarh",
+        "elevation_m": 298.0,
+        "rainfall_mm": 8.2,
+        "temp_max": 36.8,
+        "temp_min": 25.2,
+        "humidity_pct": 65,
+        "wind_speed_kmh": 11.0,
+        "alert_level": "HIGH_TEMP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [81.640, 21.300],
+            [81.670, 21.300],
+            [81.670, 21.330],
+            [81.640, 21.330],
+            [81.640, 21.300]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_PNE_01",
+      "properties": {
+        "panchayat_id": "PNC_PNE_01",
+        "panchayat_name": "Wagholi",
+        "block_name": "Haveli",
+        "district_name": "Pune",
+        "state_name": "Maharashtra",
+        "elevation_m": 560.0,
+        "rainfall_mm": 2.0,
+        "temp_max": 34.2,
+        "temp_min": 21.8,
+        "humidity_pct": 58,
+        "wind_speed_kmh": 12.0,
+        "alert_level": "NORMAL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [73.965, 18.565],
+            [73.995, 18.565],
+            [73.995, 18.595],
+            [73.965, 18.595],
+            [73.965, 18.565]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_IND_01",
+      "properties": {
+        "panchayat_id": "PNC_IND_01",
+        "panchayat_name": "Gautampura",
+        "block_name": "Depalpur",
+        "district_name": "Indore",
+        "state_name": "Madhya Pradesh",
+        "elevation_m": 530.0,
+        "rainfall_mm": 0.0,
+        "temp_max": 36.8,
+        "temp_min": 24.2,
+        "humidity_pct": 48,
+        "wind_speed_kmh": 10.0,
+        "alert_level": "HIGH_TEMP"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.505, 22.825],
+            [75.535, 22.825],
+            [75.535, 22.855],
+            [75.505, 22.855],
+            [75.505, 22.825]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_RMP_01",
+      "properties": {
+        "panchayat_id": "PNC_RMP_01",
+        "panchayat_name": "Bishanpur",
+        "block_name": "Rampur",
+        "district_name": "Rampur",
+        "state_name": "Uttar Pradesh",
+        "elevation_m": 192.0,
+        "rainfall_mm": 6.2,
+        "temp_max": 32.2,
+        "temp_min": 21.5,
+        "humidity_pct": 72,
+        "wind_speed_kmh": 10.0,
+        "alert_level": "NORMAL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [79.010, 28.790],
+            [79.040, 28.790],
+            [79.040, 28.820],
+            [79.010, 28.820],
+            [79.010, 28.790]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_PAT_01",
+      "properties": {
+        "panchayat_id": "PNC_PAT_01",
+        "panchayat_name": "Kanchanpur",
+        "block_name": "Sampatchak",
+        "district_name": "Patna",
+        "state_name": "Bihar",
+        "elevation_m": 53.0,
+        "rainfall_mm": 4.5,
+        "temp_max": 35.8,
+        "temp_min": 24.2,
+        "humidity_pct": 64,
+        "wind_speed_kmh": 9.5,
+        "alert_level": "NORMAL"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [85.145, 25.525],
+            [85.175, 25.525],
+            [85.175, 25.555],
+            [85.145, 25.555],
+            [85.145, 25.525]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_JPR_01",
+      "properties": {
+        "panchayat_id": "PNC_JPR_01",
+        "panchayat_name": "Achrol",
+        "block_name": "Amber",
+        "district_name": "Jaipur",
+        "state_name": "Rajasthan",
+        "elevation_m": 430.0,
+        "rainfall_mm": 0.0,
+        "temp_max": 39.2,
+        "temp_min": 26.8,
+        "humidity_pct": 38,
+        "wind_speed_kmh": 13.0,
+        "alert_level": "HEAT_WAVE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [75.935, 27.125],
+            [75.965, 27.125],
+            [75.965, 27.155],
+            [75.935, 27.155],
+            [75.935, 27.125]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "id": "PNC_PTN_01",
+      "properties": {
+        "panchayat_id": "PNC_PTN_01",
+        "panchayat_name": "Chandur",
+        "block_name": "Patan",
+        "district_name": "Patan",
+        "state_name": "Gujarat",
+        "elevation_m": 76.0,
+        "rainfall_mm": 0.0,
+        "temp_max": 39.8,
+        "temp_min": 26.8,
+        "humidity_pct": 40,
+        "wind_speed_kmh": 12.5,
+        "alert_level": "HEAT_WAVE"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [72.110, 23.835],
+            [72.140, 23.835],
+            [72.140, 23.865],
+            [72.110, 23.865],
+            [72.110, 23.835]
+          ]
+        ]
+      }
+    }
+  ]
+}

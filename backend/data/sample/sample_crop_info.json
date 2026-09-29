@@ -1,0 +1,47 @@
+[
+  {
+    "crop_name": "Wheat",
+    "optimal_temp_min": 10.0,
+    "optimal_temp_max": 25.0,
+    "water_requirement_mm_per_week": 25.0,
+    "heavy_rain_sensitivity": "high",
+    "heat_sensitivity_temp": 32.0,
+    "stages": ["Sowing", "Vegetative", "Flowering", "Grain Filling", "Harvesting"]
+  },
+  {
+    "crop_name": "Paddy",
+    "optimal_temp_min": 20.0,
+    "optimal_temp_max": 35.0,
+    "water_requirement_mm_per_week": 60.0,
+    "heavy_rain_sensitivity": "medium",
+    "heat_sensitivity_temp": 38.0,
+    "stages": ["Nursery", "Transplanting", "Tillering", "Heading", "Harvesting"]
+  },
+  {
+    "crop_name": "Maize",
+    "optimal_temp_min": 18.0,
+    "optimal_temp_max": 32.0,
+    "water_requirement_mm_per_week": 35.0,
+    "heavy_rain_sensitivity": "high",
+    "heat_sensitivity_temp": 35.0,
+    "stages": ["Sowing", "Knee High", "Tasseling", "Silking", "Maturity"]
+  },
+  {
+    "crop_name": "Mustard",
+    "optimal_temp_min": 10.0,
+    "optimal_temp_max": 22.0,
+    "water_requirement_mm_per_week": 15.0,
+    "heavy_rain_sensitivity": "high",
+    "heat_sensitivity_temp": 28.0,
+    "stages": ["Sowing", "Rosette", "Flowering", "Pod Formation", "Harvesting"]
+  },
+  {
+    "crop_name": "Tomato",
+    "optimal_temp_min": 15.0,
+    "optimal_temp_max": 28.0,
+    "water_requirement_mm_per_week": 30.0,
+    "heavy_rain_sensitivity": "very_high",
+    "heat_sensitivity_temp": 34.0,
+    "stages": ["Nursery", "Vegetative", "Flowering", "Fruiting", "Harvesting"]
+  }
+]
